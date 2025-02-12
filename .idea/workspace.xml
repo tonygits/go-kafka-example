@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="490c3026-9a59-484f-8f33-1eef67612bf9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/app.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consumer/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/producer/main.go" afterDir="false" />
-    </list>
+    <list default="true" id="490c3026-9a59-484f-8f33-1eef67612bf9" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
